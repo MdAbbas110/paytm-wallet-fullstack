@@ -1,7 +1,9 @@
+import { SendCard } from '../../../components/SendCard';
+
 const page = () => {
   return (
-    <div>
-      <div>Hello p2p</div>
+    <div className="w-full">
+      <SendCard />
     </div>
   );
 };
