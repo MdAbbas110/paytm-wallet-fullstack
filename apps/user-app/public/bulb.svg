@@ -1,0 +1,5 @@
+// an svg component to display a lighthing bulb
+
+<svg>  
+    text="Bulb beshumar"
+</svg>
